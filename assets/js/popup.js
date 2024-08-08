@@ -79,6 +79,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
+  
   // Close the second popup if the user clicks anywhere outside of it
   window.addEventListener("click", function (event) {
     if (event.target === projectPopup2) {
