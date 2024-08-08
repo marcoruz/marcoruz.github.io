@@ -3206,7 +3206,7 @@ a.arrow:before {
 @media screen and (max-width: 1152px) {
 
 	.gallery a img {
-		height: 20rem;
+		height: auto;
 	}
 
 	.gallery a.landscape img {
@@ -3236,7 +3236,7 @@ a.arrow:before {
 	}
 
 	.gallery a img {
-		height: 20rem;
+		height: auto;
 	}
 
 	.gallery a.landscape img {
@@ -3252,7 +3252,7 @@ a.arrow:before {
 @media screen and (max-width: 480px) {
 
 	.gallery a img {
-		height: 12rem;
+		height: auto;
 		min-height: 0;
 	}
 
